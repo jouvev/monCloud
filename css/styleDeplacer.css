@@ -1,0 +1,42 @@
+*{
+	margin:10px;
+}
+
+h1{
+	font-size:20px;
+}
+
+a, a:hover , a:visited{
+	color:blue;
+}
+
+ul{
+	list-style-type:none
+}
+
+#menu{
+	text-align:right;
+}
+
+button{
+	border-radius:4px;
+	background-color:#6A8A86;
+}
+
+#main{
+	background-color:#6A8A86;
+	border-radius:20px;
+	padding:10px;
+	margin:5px;
+}
+
+img{
+	padding:0px;
+	margin:0px;
+	height:16px;
+	width:16px;
+}
+
+#back{
+	margin-left:10px;
+}

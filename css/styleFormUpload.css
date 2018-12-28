@@ -1,0 +1,94 @@
+*{
+	margin:10px;
+}
+
+h1{
+	font-size:20px;
+}
+
+a, a:hover , a:visited{
+	color:blue;
+}
+
+.fichier{
+	border: 1px black solid;
+}
+
+input{
+	margin: 0px;
+}
+
+table, th{
+	border:1px black solid;
+	padding-left:20px;
+	padding-right:20px;
+}
+
+td{
+	padding-left:20px;
+	padding-right:20px;
+}
+
+.download, .delete{
+	text-align:center;
+}
+
+
+table{
+	border-collapse: collapse;
+	border:1px black solid;
+	/*margin:10px;*/
+	padding-left:0px;
+	padding-right:30%;
+	min-width : 40%;
+}
+
+.erreur{
+	color: red;
+	margin:0;
+	padding-left:10px;
+}
+
+.succes{
+	color: green;
+	margin:0;
+	padding-left:10px;
+}
+
+#main{
+	background-color:#6A8A86;
+	border-radius:20px;
+	padding:25px;
+	margin:15px;
+}
+
+.menu{
+	text-align:right;
+	padding-right:10px;
+}
+
+.nom{
+	display: flex;
+	justify-content: space-between;
+	padding:0px;
+	margin:0px;
+}
+
+div,.nom a, .nom{	
+	padding:0px;
+	padding-left:10px;
+	padding-right:10px;
+	margin:0px;
+}
+
+
+img{
+	padding:0px;
+	margin:0px;
+	height:16px;
+	width:16px;
+}
+
+#back, #add{
+	margin-left:10px;
+}

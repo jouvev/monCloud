@@ -1,0 +1,47 @@
+html{
+	display: flex;
+	flex-direction: column;
+	flex: 1;
+	height: 100%;
+}
+
+body{
+	display: flex;
+	flex: 1;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+form{
+	background: #6A8A86;
+
+	padding-bottom: 25px;
+	padding-top: 5px;
+	padding-left: 35px;
+	padding-right: 35px;
+
+	border-radius: 15px;
+
+	//margin-bottom: 30%;
+}
+
+#block{
+	margin-bottom: 30%;
+}
+
+form label{
+	color: white;
+	padding: 5px;
+}
+
+form h1{
+	color: white;
+	text-align: center;
+}
+
+.erreur{
+	color: red;
+	margin:0;
+	padding-left: 15px;
+}
